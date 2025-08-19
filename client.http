@@ -1,0 +1,5 @@
+# Variables
+@baseURL=http://localhost:8080
+
+# Endpoints
+GET {{baseURL}}/games
