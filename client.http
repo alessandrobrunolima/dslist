@@ -18,3 +18,9 @@ GET {{baseURL}}/games/1
 # Get Game by ID
 @name=Get GameList
 GET {{baseURL}}/lists
+
+###
+
+# Get Game by List
+@name=Get Game by List
+GET {{baseURL}}/lists/1/games
